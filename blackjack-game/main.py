@@ -60,4 +60,4 @@ def compare(out1,out2):
         print("you won")
     else:
         print("you lost ")
-compare(out1,out2)  iss game ka name kya tha ?
+compare(out1,out2) 
